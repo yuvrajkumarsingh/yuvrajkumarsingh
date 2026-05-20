@@ -1,6 +1,38 @@
-# Hi, I’m Yuvraj 👋
-**Senior Systems & Firmware Engineer | Senior Automation Engineer**
-💫 About Me <br><br>Engineering Intelligent Infrastructure for the Future ⚡<br><br>Senior Firmware & Automation Engineer passionate about building scalable, intelligent, and reliable systems across Smart Grid, Edge Computing, IoT, and AI-driven automation.<br><br>🔭 Currently building next-generation automation & validation systems for AMI / Distributed Intelligence platforms<br>🌱 Exploring Edge AI, Distributed Systems, Smart Cities & Reliable Infrastructure<br>🤝 Open to collaborating on impactful engineering, automation, and smart energy solutions<br>💬 Ask me about Robot Framework, Python, Firmware Validation, Smart Grid, CI/CD & Test Architecture<br>⚡ Strong believer in solving real-world infrastructure problems through intelligent engineering<br><br>⸻<br><br>🛠 Tech & Domain Interests<br><br>Python • Robot Framework • Firmware Validation • Smart Grid • AMI • Edge Computing • IoT • Distributed Intelligence • CI/CD • Linux • Automation Architecture<br><br>⸻<br><br>🚀 What Drives Me<br><br>Building systems that are not just automated — but intelligent, scalable, and future-ready.
+# Hi, I’m Yuvraj 👋:
+### Senior Systems & Firmware Engineer | AI Enthusiast ⚡
+
+💫 **About Me**
+
+I enjoy building things that make complex systems smarter, faster, and more reliable.
+
+Currently working in the Smart Grid / AMI domain, where I focus on firmware validation, large-scale automation, distributed systems, and next-generation utility infrastructure. Most of my day revolves around solving engineering problems across Edge Devices, Networking, Automation Frameworks, CI/CD, and system reliability.
+
+What excites me the most is the intersection of:
+- Smart Infrastructure
+- Edge Computing
+- AI-assisted Engineering
+- Distributed Intelligence
+- Real-world IoT systems
+
+I love exploring new technologies, optimizing engineering workflows, and designing systems that scale beyond just “working code.”
+
+🔭 Working on automation & validation systems for Distributed Intelligence and Edge platforms<br>
+🌱 Currently exploring Edge AI, scalable automation architectures, and intelligent infrastructure systems<br>
+💬 Ask me about Python, Robot Framework, Firmware Validation, Smart Grid, Linux, CI/CD, and large-scale test automation<br>
+🤝 Open to collaborating on meaningful engineering and automation projects<br>
+⚡ Tech enthusiast who genuinely enjoys learning how complex systems work under the hood<br>
+
+⸻
+
+## 🛠 Tech & Domain Interests
+
+`Python` • `Robot Framework` • `Firmware Validation` • `Smart Grid` • `AMI` • `IoT` • `Edge Computing` • `Distributed Systems` • `Linux` • `Networking` • `CI/CD` • `Automation Architecture`
+
+⸻
+
+## 🚀 What Drives Me
+
+Building technology that solves real-world infrastructure problems — not just software that runs, but systems that are scalable, intelligent, and built for the future.
 
 
 ## 🌐 Socials:
