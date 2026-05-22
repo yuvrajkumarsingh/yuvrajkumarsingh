@@ -1,4 +1,4 @@
-# Hi, I’m Yuvraj 👋:
+# Hi, I’m Yuvraj 👋
 ### Senior Systems & Firmware Engineer | AI Enthusiast ⚡
 
 💫 **About Me**
