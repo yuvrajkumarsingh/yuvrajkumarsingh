@@ -1,5 +1,5 @@
 # Hi, I’m Yuvraj 👋
-### Senior Systems & Firmware Engineer | AI Enthusiast ⚡
+### Senior Systems & Firmware Engineer | Aspiring Forward Deployed Engineer (FDE) ⚡
 
 💫 **About Me**
 
